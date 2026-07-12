@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skynavtech.github.io/sitemap.xml
